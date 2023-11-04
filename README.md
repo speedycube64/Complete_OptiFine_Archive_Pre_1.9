@@ -13,4 +13,4 @@ This repository builds off [ShayBox's repository](https://github.com/ShayBox/Opt
 
 I don't own the rights to any files here. This archive was made for the purposes of safety and accessibility.
 
-![825763](https://github.com/speedycube64/Complete_OptiFine_Archive_Pre_1.9/assets/149905092/cde00e25-09c9-4d54-b2fa-9a77cee5f70b)
+:825763:
