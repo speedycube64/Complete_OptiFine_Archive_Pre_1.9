@@ -5,6 +5,12 @@ These are only the files I could find on [this forum page (DO NOT DOWNLOAD FROM 
 
 This archive is "complete" in that it covers all Minecraft versions (that OptiFine was made for) before release 1.9, but there are some minor versions of the mod listed on the forum page that I couldn't find. Check "missing_versions.txt" for more details.
 
-For more info on what each different version of the mod actually does, check [this forum page (DO NOT DOWNLOAD FROM HERE)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286605-b1-4-1-9-optifine-history)
+For more info on what each different version of the mod actually does, check [this forum page (DO NOT DOWNLOAD FROM HERE)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286605-b1-4-1-9-optifine-history).
+
+Some of the older beta versions might be useless as they depend on an Optimine version that isn't available.
 
 This repository builds off [ShayBox's repository](https://github.com/ShayBox/OptiFine-Versions) which covers release 1.4 and up.
+
+I don't own the rights to any files here. This archive was made for the purposes of safety and accessibility.
+
+![825763](https://github.com/speedycube64/Complete_OptiFine_Archive_Pre_1.9/assets/149905092/cde00e25-09c9-4d54-b2fa-9a77cee5f70b)
