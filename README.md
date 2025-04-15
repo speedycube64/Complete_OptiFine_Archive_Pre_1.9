@@ -1,5 +1,5 @@
 # Complete_OptiFine_Archive_Pre_1.9
-Download old OptiFine versions (pre-1.9) without getting your computer shat on by adfly
+Download old OptiFine versions (pre-1.9) without getting a virus from adfly
 
 These are only the files I could find on [this forum page (DO NOT DOWNLOAD FROM HERE)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1286605-b1-4-1-9-optifine-history). Some 1.7 and 1.8 versions might have newer OptiFine versions than what's in this repository, so check the [official OptiFine website]([url](https://optifine.net/downloads)https://optifine.net/downloads).
 
@@ -9,7 +9,7 @@ For more info on what each different version of the mod actually does, check [th
 
 Some of the older beta versions might be useless as they depend on an Optimine version that isn't available.
 
-This repository builds off [ShayBox's repository](https://github.com/ShayBox/OptiFine-Versions) which covers release 1.4 and up.
+This repository builds off [ShayBox's repository](https://github.com/ShayBox/OptiFine-Versions) which covers release 1.4 and up. Also thanks to [ThexXTurboXx](https://github.com/ThexXTURBOXx) for finding some missing files.
 
 I don't own the rights to any files here. This archive was made for the purposes of safety and accessibility.
 
